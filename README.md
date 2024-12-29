@@ -31,6 +31,13 @@ For convenient running customization process, we build a very simple UI. You can
 
 ![image-20231213231337708](https://github.com/wangchx67/CCNet/blob/main/figs/ui.png)
 
+## Todo list:
+✅: submmit the main source code
+
+⬜: update the ui for better enjoy of CCNet
+
+⬜: develop the open source testing website
+
 ## Note
 This repo is the extension of [BCNet](https://github.com/wangchx67/BCNet).
 
